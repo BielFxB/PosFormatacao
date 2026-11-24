@@ -2,6 +2,12 @@
 
 Instala programas básicos e atualiza os drivers recomendados pelo Windows Update após a formatação do Windows 10 ou 11.
 
+## Download
+
+[Baixar PosFormatacao.exe](https://github.com/BielFxB/PosFormatacao/releases/latest/download/PosFormatacao.exe)
+
+Baixe o executável e abra com dois cliques no Windows 10 ou 11. Os instaladores dos programas e dos drivers são baixados durante o uso.
+
 ## Como usar
 
 1. Antes de formatar, copie **PosFormatacao.exe** para um pendrive ou outro local que você possa acessar depois. O catálogo e o motor de drivers estão incluídos no executável.
