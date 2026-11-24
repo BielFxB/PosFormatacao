@@ -12,7 +12,80 @@ Instala programas básicos e atualiza os drivers recomendados pelo Windows Updat
 
 O PosFormatacao usa o WinGet para instalar programas. Se o comando estiver indisponível, instale ou atualize o **Instalador de Aplicativo** pela Microsoft Store. Os drivers disponíveis dependem do hardware e do serviço de atualização configurado no Windows. O PosFormatacao instala apenas os drivers recomendados para atualização automática. Os opcionais podem ser consultados nas configurações do Windows Update.
 
-O FileZilla abre a página oficial para instalação manual. O catálogo inclui o K-Lite Standard, os runtimes .NET Desktop 8 e 10, o SDK .NET 10 e o Eclipse IDE para Java. Selecione uma linha do Node.js e uma arquitetura do instalador Python 3.14 por execução.
+## Programas disponíveis
+
+### Componentes
+
+- VC++ 2015–2022 · x86
+- VC++ 2015–2022 · x64
+- VC++ 2015–2022 · ARM64
+- .NET 8 Desktop Runtime
+- .NET 10 Desktop Runtime
+- .NET 10 SDK
+
+### Compactação
+
+- WinRAR
+- 7-Zip
+
+### Mídia
+
+- VLC
+- Spotify
+- K-Lite Codec Pack Standard
+- OBS Studio
+
+### Navegadores
+
+- Chrome
+- Firefox
+- Edge
+- Brave
+- Opera
+- Vivaldi
+
+### Desenvolvimento
+
+- Python 3.14 · x64
+- Python 3.14 · ARM64
+- Python 3.14 · arquitetura automática
+- Python Install Manager
+- Git
+- GitHub Desktop
+- Docker Desktop
+- Node.js 22
+- Node.js 24
+- Node.js 26 LTS
+- FileZilla · download oficial
+- Notepad++
+- Sublime Text 4
+- WinSCP
+- PuTTY
+- WinMerge
+- Eclipse IDE for Java Developers
+- Visual Studio Code
+- Cursor
+- R
+- Arduino IDE 2
+
+### Produtividade
+
+- LibreOffice
+- Apache OpenOffice
+
+### Comunicação
+
+- WhatsApp
+- Discord
+- Zoom
+
+### Jogos
+
+- Steam
+- Epic Games Launcher
+- GOG Galaxy
+
+O WhatsApp é instalado pelo WinGet usando a Microsoft Store. O FileZilla abre a página oficial para instalação manual. Selecione uma linha do Node.js e uma opção do instalador Python 3.14 por execução.
 
 ## Recompilar o executável
 
