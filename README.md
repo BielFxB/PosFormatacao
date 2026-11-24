@@ -85,8 +85,6 @@ O PosFormatacao usa o WinGet para instalar programas. Se o comando estiver indis
 - Epic Games Launcher
 - GOG Galaxy
 
-O WhatsApp é instalado pelo WinGet usando a Microsoft Store. O FileZilla abre a página oficial para instalação manual. Selecione uma linha do Node.js e uma opção do instalador Python 3.14 por execução.
-
 ## Recompilar o executável
 
 Para alterar o catálogo da interface, edite **catalogo.tsv** e execute `powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\Compilar.ps1`. A compilação usa o compilador do .NET Framework do Windows.
