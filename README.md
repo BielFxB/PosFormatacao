@@ -94,3 +94,7 @@ O PosFormatacao usa o WinGet para instalar programas. Se o comando estiver indis
 ## Recompilar o executável
 
 Para alterar o catálogo da interface, edite **catalogo.tsv** e execute `powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\Compilar.ps1`. A compilação usa o compilador do .NET Framework do Windows.
+
+## Licença
+
+O código do PosFormatacao é distribuído sob a [licença MIT](LICENSE). Os programas disponíveis no catálogo seguem suas próprias licenças.
